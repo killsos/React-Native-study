@@ -1,0 +1,31 @@
+React Native flexBox
+
+1. alignItems
+
+flex-start flex-end center stretch
+
+
+2. alignSelf
+
+auto flex-start flex-end center stretch
+
+3. flex
+
+number
+
+
+4. flexDirection
+
+row column
+
+
+5. flexWrap
+
+wrap nowrap
+
+6. justifyContent
+
+flex-start flex-end center space-between space-around
+
+
+
